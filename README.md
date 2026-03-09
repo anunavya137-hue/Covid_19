@@ -56,3 +56,5 @@ The project demonstrates how data analysis techniques can be used to derive mean
 
 ## Author
 Anusha
+Data Analytics Enthusiast
+Python | Pandas | Data Analysis
